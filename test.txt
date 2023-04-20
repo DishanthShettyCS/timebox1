@@ -1,0 +1,4 @@
+planning
+requirement
+design
+coding
